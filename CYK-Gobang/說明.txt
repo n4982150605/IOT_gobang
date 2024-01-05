@@ -1,0 +1,1 @@
+點擊index.html執行遊戲，開好單雙跟2個Gobang IDF跟ODF，連接好後即可進行遊戲。 
