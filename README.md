@@ -10,22 +10,22 @@ a gobang game using IOT
 
 demo連結：https://youtu.be/3Gti43hhoDc
 
-1. 開好兩個遊戲(要單雙)
+1. 開好兩個遊戲(要單雙)<br>
 ![image](https://github.com/n4982150605/IOT_gobang/blob/main/image/%E5%9C%96%E7%89%871.jpg)
 ![image](https://github.com/n4982150605/IOT_gobang/blob/main/image/%E5%9C%96%E7%89%872.jpg)
 
-2. 到IOTTalk上註冊需要的model
+2. 到IOTTalk上註冊需要的model<br>
 ![image](https://github.com/n4982150605/IOT_gobang/blob/main/image/%E5%9C%96%E7%89%873.jpg)
 
-3. 在IOTTalk上連線將兩個遊戲連線
+3. 在IOTTalk上連線將兩個遊戲連線<br>
 ![image](https://github.com/n4982150605/IOT_gobang/blob/main/image/%E5%9C%96%E7%89%874.jpg)
 
-4. 預設由黑子先手
+4. 預設由黑子先手<br>
 
-5. 雙方輪流push跟wait
+5. 雙方輪流push跟wait<br>
 ![image](https://github.com/n4982150605/IOT_gobang/blob/main/image/%E5%9C%96%E7%89%875.jpg)
 ![image](https://github.com/n4982150605/IOT_gobang/blob/main/image/%E5%9C%96%E7%89%876.jpg)
 
-6. 雙方輪流落子直至其中一方勝利
+6. 雙方輪流落子直至其中一方勝利<br>
 ![image](https://github.com/n4982150605/IOT_gobang/blob/main/image/%E5%9C%96%E7%89%877.jpg)
 
